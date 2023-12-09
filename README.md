@@ -2,15 +2,15 @@
 ## Qian RU 20234621;Yudi MA 20236724; Qiyun OU 20264284
 
 ### 1. Ajouter les contenus de fichier2 à fichier1 
-    **Exécution:**
-    _Entrer_ "./1.sh 'fichier1' 'fichier2' 
+   **Exécution:**
+   _Entrer_ "./1.sh 'fichier1' 'fichier2' 
 
-    **fichier1** : remplace par le nom de fichier à ajouter le conteu. 
-    **fichier2** : remplace par le nom de fichier qui contient les textes et qui vas êtr ajouté ces contenus à fichier1 
+   **fichier1** : remplace par le nom de fichier à ajouter le conteu. 
+   **fichier2** : remplace par le nom de fichier qui contient les textes et qui vas êtr ajouté ces contenus à fichier1 
 
-    **Cas spécial** : 
-    Si fichier2.txt n'existe pas, on retourne "le fichier1 et le fichier2 n'existent pas" . 
-    Recommencer à entrer une autre fois la ligne d'exécutionVeuillez entrer un nouveau nom de fichier2. 
+   **Cas spécial** : 
+   Si fichier2.txt n'existe pas, on retourne "le fichier1 et le fichier2 n'existent pas" . 
+   Recommencer à entrer une autre fois la ligne d'exécutionVeuillez entrer un nouveau nom de fichier2. 
 
 ### 2. Examiner si le string entrée est dans le dossier et afficher le nb de lignes 
 
