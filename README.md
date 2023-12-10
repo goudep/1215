@@ -1,5 +1,4 @@
-# Devoir 4  Instructions 
-## Qian RU 20234621;Yudi MA 20236724; Qiyun OU 20264284
+# Devoir 4  Instructions
 
 ### 1. Ajouter les contenus de fichier2 à fichier1 
    **Exécution:**
